@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wseiLevelDesign\\wseiLevelDesign\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|d:\\wseileveldesign\\wseileveldesign\\assets\\infima games\\low poly shooter pack - free sample\\code\\legacy\\targetscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|solutionrelative:assets\\infima games\\low poly shooter pack - free sample\\code\\legacy\\targetscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|d:\\wseileveldesign\\wseileveldesign\\assets\\infima games\\low poly shooter pack - free sample\\code\\character\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|solutionrelative:assets\\infima games\\low poly shooter pack - free sample\\code\\character\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TargetScript.cs",
+              "DocumentMoniker": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Legacy\\TargetScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Legacy\\TargetScript.cs",
+              "ToolTip": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Legacy\\TargetScript.cs",
+              "RelativeToolTip": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Legacy\\TargetScript.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:30:05.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Character\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Character\\Inventory.cs",
+              "ToolTip": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Character\\Inventory.cs",
+              "RelativeToolTip": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Character\\Inventory.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowEgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T16:26:03.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
