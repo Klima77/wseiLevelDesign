@@ -1,15 +1,5 @@
 fileFormatVersion: 2
 guid: 02ff3ea705a4a7244a59eef82e75c660
-timeCreated: 1552803852
-licenseType: Store
-MonoImporter:
-  serializedVersion: 2
-  defaultReferences: []
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
 AssetOrigin:
   serializedVersion: 1
   productId: 144839
@@ -17,3 +7,14 @@ AssetOrigin:
   packageVersion: 2.0.0
   assetPath: Assets/Infima Games/Low Poly Shooter Pack - Free Sample/Code/Legacy/Projectile.cs
   uploadId: 469425
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyHitSFX: {fileID: 8300000, guid: de7fb297acaef734ba2dd808f4b223e4, type: 3}
+  - audioMixerGroup: {fileID: 24300002, guid: 3fcdb23bde063e94fa0b60ccf87604d6, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
