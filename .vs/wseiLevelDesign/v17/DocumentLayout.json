@@ -3,24 +3,60 @@
   "WorkspaceRootPath": "D:\\wseiLevelDesign\\wseiLevelDesign\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|d:\\wseileveldesign\\wseileveldesign\\assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|d:\\wseileveldesign\\wseileveldesign\\assets\\infima games\\low poly shooter pack - free sample\\code\\weapons\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|solutionrelative:assets\\infima games\\low poly shooter pack - free sample\\code\\weapons\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|d:\\wseileveldesign\\wseileveldesign\\assets\\infima games\\low poly shooter pack - free sample\\code\\legacy\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|solutionrelative:assets\\infima games\\low poly shooter pack - free sample\\code\\legacy\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|d:\\wseileveldesign\\wseileveldesign\\assets\\infima games\\low poly shooter pack - free sample\\code\\interface\\textammunitioncurrent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|solutionrelative:assets\\infima games\\low poly shooter pack - free sample\\code\\interface\\textammunitioncurrent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|d:\\wseileveldesign\\wseileveldesign\\assets\\infima games\\low poly shooter pack - free sample\\code\\legacy\\explosivebarrelscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|solutionrelative:assets\\infima games\\low poly shooter pack - free sample\\code\\legacy\\explosivebarrelscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|d:\\wseileveldesign\\wseileveldesign\\assets\\infima games\\low poly shooter pack - free sample\\code\\utilities\\timehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|solutionrelative:assets\\infima games\\low poly shooter pack - free sample\\code\\utilities\\timehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|d:\\wseileveldesign\\wseileveldesign\\assets\\infima games\\low poly shooter pack - free sample\\code\\legacy\\targetscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|solutionrelative:assets\\infima games\\low poly shooter pack - free sample\\code\\legacy\\targetscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|d:\\wseileveldesign\\wseileveldesign\\assets\\infima games\\low poly shooter pack - free sample\\code\\interface\\textmouselock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|solutionrelative:assets\\infima games\\low poly shooter pack - free sample\\code\\interface\\textmouselock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|d:\\wseileveldesign\\wseileveldesign\\assets\\infima games\\low poly shooter pack - free sample\\code\\weapons\\weaponbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|solutionrelative:assets\\infima games\\low poly shooter pack - free sample\\code\\weapons\\weaponbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|d:\\wseileveldesign\\wseileveldesign\\assets\\infima games\\low poly shooter pack - free sample\\code\\character\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|solutionrelative:assets\\infima games\\low poly shooter pack - free sample\\code\\character\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|d:\\wseileveldesign\\wseileveldesign\\assets\\infima games\\low poly shooter pack - free sample\\code\\character\\characterkinematics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|solutionrelative:assets\\infima games\\low poly shooter pack - free sample\\code\\character\\characterkinematics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|d:\\wseileveldesign\\wseileveldesign\\assets\\infima games\\low poly shooter pack - free sample\\code\\camera\\cameralook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|solutionrelative:assets\\infima games\\low poly shooter pack - free sample\\code\\camera\\cameralook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|d:\\wseileveldesign\\wseileveldesign\\assets\\infima games\\low poly shooter pack - free sample\\code\\animation\\characteranimationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|solutionrelative:assets\\infima games\\low poly shooter pack - free sample\\code\\animation\\characteranimationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|D:\\wseiLevelDesign\\wseiLevelDesign\\assets\\infima games\\low poly shooter pack - free sample\\code\\character\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|solutionrelative:assets\\infima games\\low poly shooter pack - free sample\\code\\character\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|d:\\wseileveldesign\\wseileveldesign\\assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|D:\\wseiLevelDesign\\wseiLevelDesign\\assets\\infima games\\low poly shooter pack - free sample\\code\\legacy\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|solutionrelative:assets\\infima games\\low poly shooter pack - free sample\\code\\legacy\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|D:\\wseiLevelDesign\\wseiLevelDesign\\assets\\infima games\\low poly shooter pack - free sample\\code\\legacy\\explosivebarrelscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|solutionrelative:assets\\infima games\\low poly shooter pack - free sample\\code\\legacy\\explosivebarrelscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|D:\\wseiLevelDesign\\wseiLevelDesign\\assets\\infima games\\low poly shooter pack - free sample\\code\\legacy\\targetscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE9B3E1-B389-31B5-4612-9B20DE99096E}|Assembly-CSharp.csproj|solutionrelative:assets\\infima games\\low poly shooter pack - free sample\\code\\legacy\\targetscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +70,124 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeaponBehaviour.cs",
+              "DocumentMoniker": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Weapons\\WeaponBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Weapons\\WeaponBehaviour.cs",
+              "ToolTip": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Weapons\\WeaponBehaviour.cs",
+              "RelativeToolTip": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Weapons\\WeaponBehaviour.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAADwv0cAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:58:42.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TextAmmunitionCurrent.cs",
+              "DocumentMoniker": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Interface\\TextAmmunitionCurrent.cs",
+              "RelativeDocumentMoniker": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Interface\\TextAmmunitionCurrent.cs",
+              "ToolTip": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Interface\\TextAmmunitionCurrent.cs",
+              "RelativeToolTip": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Interface\\TextAmmunitionCurrent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:58:20.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Weapons\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Weapons\\Weapon.cs",
+              "ToolTip": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Weapons\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Weapons\\Weapon.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAAwP8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:57:33.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextMouseLock.cs",
+              "DocumentMoniker": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Interface\\TextMouseLock.cs",
+              "RelativeDocumentMoniker": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Interface\\TextMouseLock.cs",
+              "ToolTip": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Interface\\TextMouseLock.cs",
+              "RelativeToolTip": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Interface\\TextMouseLock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:53:13.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimeHandler.cs",
+              "DocumentMoniker": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Utilities\\TimeHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Utilities\\TimeHandler.cs",
+              "ToolTip": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Utilities\\TimeHandler.cs",
+              "RelativeToolTip": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Utilities\\TimeHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:51:38.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraLook.cs",
+              "DocumentMoniker": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Camera\\CameraLook.cs",
+              "RelativeDocumentMoniker": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Camera\\CameraLook.cs",
+              "ToolTip": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Camera\\CameraLook.cs",
+              "RelativeToolTip": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Camera\\CameraLook.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAowJwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:48:23.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CharacterAnimationEventHandler.cs",
+              "DocumentMoniker": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Animation\\CharacterAnimationEventHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Animation\\CharacterAnimationEventHandler.cs",
+              "ToolTip": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Animation\\CharacterAnimationEventHandler.cs",
+              "RelativeToolTip": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Animation\\CharacterAnimationEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:47:05.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Character\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Character\\Character.cs",
+              "ToolTip": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Character\\Character.cs",
+              "RelativeToolTip": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Character\\Character.cs",
+              "ViewState": "AgIAAEoCAAAAAAAAAAAqwF4CAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:46:49.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CharacterKinematics.cs",
+              "DocumentMoniker": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Character\\CharacterKinematics.cs",
+              "RelativeDocumentMoniker": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Character\\CharacterKinematics.cs",
+              "ToolTip": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Character\\CharacterKinematics.cs",
+              "RelativeToolTip": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Character\\CharacterKinematics.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAqwFgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:43:50.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Projectile.cs",
               "DocumentMoniker": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Legacy\\Projectile.cs",
               "RelativeDocumentMoniker": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Legacy\\Projectile.cs",
@@ -42,12 +195,11 @@
               "RelativeToolTip": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Legacy\\Projectile.cs",
               "ViewState": "AgIAAGoAAAAAAAAAAAAiwJEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T16:49:52.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T16:49:52.806Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "ExplosiveBarrelScript.cs",
               "DocumentMoniker": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Legacy\\ExplosiveBarrelScript.cs",
               "RelativeDocumentMoniker": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Legacy\\ExplosiveBarrelScript.cs",
@@ -55,12 +207,11 @@
               "RelativeToolTip": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Legacy\\ExplosiveBarrelScript.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAqwFIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T16:49:23.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T16:49:23.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Enemy.cs",
               "DocumentMoniker": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Enemy.cs",
@@ -73,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "TargetScript.cs",
               "DocumentMoniker": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Legacy\\TargetScript.cs",
               "RelativeDocumentMoniker": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Legacy\\TargetScript.cs",
@@ -81,18 +232,17 @@
               "RelativeToolTip": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Legacy\\TargetScript.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAiwEEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T16:30:05.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T16:30:05.389Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Inventory.cs",
               "DocumentMoniker": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Character\\Inventory.cs",
               "RelativeDocumentMoniker": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Character\\Inventory.cs",
               "ToolTip": "D:\\wseiLevelDesign\\wseiLevelDesign\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Character\\Inventory.cs",
               "RelativeToolTip": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Character\\Inventory.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAowEgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwEMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T16:26:03.136Z",
               "EditorCaption": ""
