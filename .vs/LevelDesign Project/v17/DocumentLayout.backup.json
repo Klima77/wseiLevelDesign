@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Repos\\LevelDesign Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Repos\\LevelDesign Project\\Library\\PackageCache\\com.unity.render-pipelines.universal\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{DBBF7B09-728E-70E1-59CD-05B1CF25017E}|Assembly-CSharp.csproj|D:\\Repos\\LevelDesign Project\\assets\\scifi_door\\script\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBF7B09-728E-70E1-59CD-05B1CF25017E}|Assembly-CSharp.csproj|solutionrelative:assets\\scifi_door\\script\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBBF7B09-728E-70E1-59CD-05B1CF25017E}|Assembly-CSharp.csproj|d:\\repos\\leveldesign project\\assets\\obiectdisabler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,14 +51,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Lit.shader",
-              "DocumentMoniker": "D:\\Repos\\LevelDesign Project\\Library\\PackageCache\\com.unity.render-pipelines.universal\\Shaders\\Lit.shader",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal\\Shaders\\Lit.shader",
-              "ToolTip": "D:\\Repos\\LevelDesign Project\\Library\\PackageCache\\com.unity.render-pipelines.universal\\Shaders\\Lit.shader",
-              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal\\Shaders\\Lit.shader",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-05-06T22:22:50.648Z",
+              "Title": "door.cs",
+              "DocumentMoniker": "D:\\Repos\\LevelDesign Project\\Assets\\SciFi_Door\\Script\\door.cs",
+              "RelativeDocumentMoniker": "Assets\\SciFi_Door\\Script\\door.cs",
+              "ToolTip": "D:\\Repos\\LevelDesign Project\\Assets\\SciFi_Door\\Script\\door.cs",
+              "RelativeToolTip": "Assets\\SciFi_Door\\Script\\door.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T21:55:23.946Z",
               "EditorCaption": ""
             },
             {
@@ -69,7 +69,7 @@
               "RelativeDocumentMoniker": "Assets\\ObiectDisabler.cs",
               "ToolTip": "D:\\Repos\\LevelDesign Project\\Assets\\ObiectDisabler.cs",
               "RelativeToolTip": "Assets\\ObiectDisabler.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCYAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T20:55:10.414Z",
               "EditorCaption": ""
