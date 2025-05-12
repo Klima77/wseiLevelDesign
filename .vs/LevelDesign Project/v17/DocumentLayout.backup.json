@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\Repos\\LevelDesign Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBBF7B09-728E-70E1-59CD-05B1CF25017E}|Assembly-CSharp.csproj|D:\\Repos\\LevelDesign Project\\assets\\scifi_door\\script\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBBF7B09-728E-70E1-59CD-05B1CF25017E}|Assembly-CSharp.csproj|d:\\repos\\leveldesign project\\assets\\objectdestroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBBF7B09-728E-70E1-59CD-05B1CF25017E}|Assembly-CSharp.csproj|solutionrelative:assets\\objectdestroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBBF7B09-728E-70E1-59CD-05B1CF25017E}|Assembly-CSharp.csproj|d:\\repos\\leveldesign project\\assets\\scifi_door\\script\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBBF7B09-728E-70E1-59CD-05B1CF25017E}|Assembly-CSharp.csproj|solutionrelative:assets\\scifi_door\\script\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBBF7B09-728E-70E1-59CD-05B1CF25017E}|Assembly-CSharp.csproj|d:\\repos\\leveldesign project\\assets\\obiectdisabler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBBF7B09-728E-70E1-59CD-05B1CF25017E}|Assembly-CSharp.csproj|D:\\Repos\\LevelDesign Project\\assets\\obiectdisabler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBBF7B09-728E-70E1-59CD-05B1CF25017E}|Assembly-CSharp.csproj|solutionrelative:assets\\obiectdisabler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -51,19 +55,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ObjectDestroyer.cs",
+              "DocumentMoniker": "D:\\Repos\\LevelDesign Project\\Assets\\ObjectDestroyer.cs",
+              "RelativeDocumentMoniker": "Assets\\ObjectDestroyer.cs",
+              "ToolTip": "D:\\Repos\\LevelDesign Project\\Assets\\ObjectDestroyer.cs",
+              "RelativeToolTip": "Assets\\ObjectDestroyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T22:08:37.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "door.cs",
               "DocumentMoniker": "D:\\Repos\\LevelDesign Project\\Assets\\SciFi_Door\\Script\\door.cs",
               "RelativeDocumentMoniker": "Assets\\SciFi_Door\\Script\\door.cs",
               "ToolTip": "D:\\Repos\\LevelDesign Project\\Assets\\SciFi_Door\\Script\\door.cs",
               "RelativeToolTip": "Assets\\SciFi_Door\\Script\\door.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T21:55:23.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ObiectDisabler.cs",
               "DocumentMoniker": "D:\\Repos\\LevelDesign Project\\Assets\\ObiectDisabler.cs",
               "RelativeDocumentMoniker": "Assets\\ObiectDisabler.cs",
@@ -76,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CharacterBehaviour.cs",
               "DocumentMoniker": "D:\\Repos\\LevelDesign Project\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Character\\CharacterBehaviour.cs",
               "RelativeDocumentMoniker": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Character\\CharacterBehaviour.cs",
@@ -88,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TakeAID.cs",
               "DocumentMoniker": "D:\\Repos\\LevelDesign Project\\Assets\\TakeAID.cs",
               "RelativeDocumentMoniker": "Assets\\TakeAID.cs",
@@ -100,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Weapon.cs",
               "DocumentMoniker": "D:\\Repos\\LevelDesign Project\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Weapons\\Weapon.cs",
               "RelativeDocumentMoniker": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Weapons\\Weapon.cs",
@@ -112,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Muzzle.cs",
               "DocumentMoniker": "D:\\Repos\\LevelDesign Project\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Weapons\\Muzzle.cs",
               "RelativeDocumentMoniker": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Weapons\\Muzzle.cs",
@@ -124,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CameraLook.cs",
               "DocumentMoniker": "D:\\Repos\\LevelDesign Project\\Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Camera\\CameraLook.cs",
               "RelativeDocumentMoniker": "Assets\\Infima Games\\Low Poly Shooter Pack - Free Sample\\Code\\Camera\\CameraLook.cs",
@@ -136,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "TMP_PackageResourceImporter.cs",
               "DocumentMoniker": "D:\\Repos\\LevelDesign Project\\Library\\PackageCache\\com.unity.ugui\\Runtime\\TMP\\TMP_PackageResourceImporter.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui\\Runtime\\TMP\\TMP_PackageResourceImporter.cs",
@@ -148,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DoorOpenScript.cs",
               "DocumentMoniker": "D:\\Repos\\LevelDesign Project\\Assets\\DoorOpenScript.cs",
               "RelativeDocumentMoniker": "Assets\\DoorOpenScript.cs",
